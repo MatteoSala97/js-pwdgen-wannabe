@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: lightblue;
+}
+
+.box{
+    width: 800px;
+    height: 500px;
+    background-color: lightsalmon;
+    margin: 50px auto;
+}
+
+h1{
+    text-align: center;
+    
+}
